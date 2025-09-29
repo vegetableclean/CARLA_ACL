@@ -11,7 +11,7 @@ Reference Youtube: https://www.youtube.com/watch?v=tV6iO8JikTw
 
 Here is an example of a vehicle spawned in the CARLA world:
 
-![CARLA Vehicle](assets/Pasted image.png)
+![CARLA Vehicle](assets/car.png)
 
 
 ## 1. System Requirements
