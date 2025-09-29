@@ -1,7 +1,7 @@
 
  # CARLA Simulator Setup on Ubuntu
 
-This repository is for building the testbed and attack examples in the CARLA
+This repository is for building the testbed and attack examples in the CARLA. 
 This README provides step-by-step instructions to set up a working CARLA environment on **Ubuntu**.  
 It covers installing dependencies, creating a Python virtual environment, launching the CARLA simulator, and running example Python scripts.
 Reference Youtube: https://www.youtube.com/watch?v=tV6iO8JikTw
