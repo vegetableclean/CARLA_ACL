@@ -7,6 +7,12 @@ It covers installing dependencies, creating a Python virtual environment, launch
 Reference Youtube: https://www.youtube.com/watch?v=tV6iO8JikTw
 
 ---
+## Example: Spawned Vehicle in CARLA
+
+Here is an example of a vehicle spawned in the CARLA world:
+
+![CARLA Vehicle](assets/Pasted image.png)
+
 
 ## 1. System Requirements
 
