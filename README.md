@@ -1,6 +1,12 @@
 # CARLA Simulator Setup on Ubuntu
 
-This repository is adapted from the **KING paper** and serves as a testbed for experiments and attack examples in CARLA.  
+This repository is adapted from the **KING paper** and serves as a testbed for experiments and attack examples in CARLA. 
+@inproceedings{Hanselmann2022ECCV,
+  author = {Hanselmann, Niklas and Renz, Katrin and Chitta, Kashyap and Bhattacharyya, Apratim and Geiger, Andreas},
+  title = {KING: Generating Safety-Critical Driving Scenarios for Robust Imitation via Kinematics Gradients},
+  booktitle = {European Conference on Computer Vision(ECCV)},
+  year = {2022}
+}
 
 - The **original implementation** follows the KING paper.  
 - A **reimplementation branch** has been added for replication.  
