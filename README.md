@@ -2,11 +2,12 @@
 
 This repository is adapted from the **paper title KING: Generating Safety-Critical Driving Scenarios for Robust Imitation via Kinematics Gradients (ECCV 2022)** and serves as a testbed for experiments and attack examples in CARLA. 
 
+![Demo for the reimplementaion](assets/demo.gif)
 
 - The **original implementation** follows the KING paper.  
 - A **reimplementation branch** has been added for replication.  
 - This version is specifically **reimplemented on CARLA 0.9.15** to ensure compatibility with the newer simulator.  
-![Demo](assets/demo.gif)
+
 
 This README provides step-by-step instructions to set up a working CARLA environment on **Ubuntu**.  
 It covers installing dependencies, creating a Python virtual environment, launching the CARLA simulator, and running example Python scripts.  
