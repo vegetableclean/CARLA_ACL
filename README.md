@@ -6,6 +6,7 @@ This repository is adapted from the **paper title KING: Generating Safety-Critic
 - The **original implementation** follows the KING paper.  
 - A **reimplementation branch** has been added for replication.  
 - This version is specifically **reimplemented on CARLA 0.9.15** to ensure compatibility with the newer simulator.  
+![Demo](assets/demo.gif)
 
 This README provides step-by-step instructions to set up a working CARLA environment on **Ubuntu**.  
 It covers installing dependencies, creating a Python virtual environment, launching the CARLA simulator, and running example Python scripts.  
